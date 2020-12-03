@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UserApp</string>
+    <string name="strUser">Usuario</string>
+    <string name="strPassphrase">Contraseña</string>
+    <string name="strLogin">Ingresar</string>
+    <string name="strNewAcc">Crear Cuenta</string>
+    <string name="strName">Nombre</string>
+    <string name="strEmail">Correo</string>
+    <string name="strPhone">Telefono</string>
+    <string name="strBirthdate">Fecha de Nacimiento</string>
+</resources>
